@@ -30,9 +30,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raahul-Thakur&show_icons=true&theme=radical" alt="Raahul-Thakur's GitHub Stats" width="45%" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Raahul-Thakur&theme=radical" alt="Raahul-Thakur's GitHub Streak Stats" width="45%" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Raahul-Thakur&theme=radical" alt="Raahul-Thakur's GitHub Streak Stats" width="45%" />
 </div>
 
 ---
