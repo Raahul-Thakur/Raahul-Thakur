@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 
 ## 📊 GitHub Streak Stats
 
-[![GitHub Streak](https://github-streak-deploy-jzcz363oi-raahul-thakurs-projects.vercel.app/?user=Raahul-Thakur)](https://github-streak-deploy-jzcz363oi-raahul-thakurs-projects.vercel.app)
+[![GitHub Streak](https://github-streak-deploy-jzcz363oi-raahul-thakurs-projects.vercel.app/?user=Raahul-Thakur&theme=radical&hide_border=true)](https://github-streak-deploy-jzcz363oi-raahul-thakurs-projects.vercel.app)
 
 ---
 
