@@ -1,9 +1,17 @@
-<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" text-anchor="middle" fill="black" font-size="24px" font-family="Arial">
-    <tspan id="text" fill="transparent">Hi there! I'm Rahul</tspan>
-  </text>
-  <animate xlink:href="#text" attributeName="fill" from="transparent" to="black" dur="3s" repeatCount="indefinite" />
-</svg>
+<div style="font-size: 24px; font-family: Arial; overflow: hidden; white-space: nowrap; border-right: 2px solid black; width: 15ch; animation: typing 2s steps(15, end), blink .5s step-end infinite;">
+  Hi there! I'm Rahul
+</div>
+
+<style>
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 15ch }
+  }
+  @keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: black }
+  }
+</style>
 
 Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, blending science and technology to solve real-world problems. 
 
