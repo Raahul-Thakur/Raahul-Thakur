@@ -1,4 +1,9 @@
-# Hi there!  I'm Rahul
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" text-anchor="middle" fill="black" font-size="24px" font-family="Arial">
+    <tspan id="text" fill="transparent">Hi there! I'm Rahul</tspan>
+  </text>
+  <animate xlink:href="#text" attributeName="fill" from="transparent" to="black" dur="3s" repeatCount="indefinite" />
+</svg>
 
 Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, blending science and technology to solve real-world problems. 
 
