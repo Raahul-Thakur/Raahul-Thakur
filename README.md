@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Rahul
+# Hi there!  I'm Rahul
 
-Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, blending science and technology to solve real-world problems. 🚀 
+Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, blending science and technology to solve real-world problems. 
 
 ## 🚀 About Me
 
@@ -16,9 +16,14 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-20BFA9?style=for-the-badge&logo=gradio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
@@ -41,17 +46,21 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 
 ## 💡 Featured Projects
 
-### 🌟 [Solar Energy Production Zone Clustering](https://github.com/Rahul-username/solar-energy-project)
-- Clustering geographical areas based on solar energy production
-- **Technologies**: Python, Scikit-learn, GeoPandas, Matplotlib
+### 🌟 [Computer Vision Challenge](https://github.com/Raahul-Thakur/Computer-Vision-Challenge-Fellowship.AI)
+- Developed a deep learning model to classify flower images with high accuracy
+- **Technologies**: Python, TensorFlow, Keras, Matplotlib
 
-### 🌟 [Used Car Price Prediction](https://github.com/Rahul-username/used-car-price-prediction)
-- Predicting prices of used cars using advanced machine learning models
-- **Technologies**: Python, XGBoost, Power BI
+### 🌟 [Student Placement Prediction](https://github.com/Raahul-Thakur/Deploying-ML-Model-on-Render)
+- Predicting student placements based on IQ and CGPA, deployed on Render
+- **Technologies**: Python, Scikit-learn, Render, Flask
 
-### 🌟 [Black-Scholes Option Pricer](https://github.com/Rahul-username/quant-portfolio)
-- Pricing call and put options with sensitivity analysis and a Streamlit GUI
-- **Technologies**: Python, Streamlit, Matplotlib
+### 🌟 [Credit Card Usage Segmentation](https://github.com/Raahul-Thakur/Credit-Card-Usage-Segmentation-Using-Unsupervised-Learning)
+- Clustered credit card users to identify usage patterns using unsupervised learning
+- **Technologies**: Python, Scikit-learn, Matplotlib, Seaborn
+
+### 🌟 [Stellar Classification](https://github.com/Raahul-Thakur/Stellar-Classification)
+- Classified celestial objects like stars, galaxies, and quasars using supervised learning
+- **Technologies**: Python, Scikit-learn, Pandas, Matplotlib
 
 ---
 
