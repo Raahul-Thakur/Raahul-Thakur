@@ -24,14 +24,13 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 ![Gradio](https://img.shields.io/badge/Gradio-20BFA9?style=for-the-badge&logo=gradio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-username&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-username&theme=radical" alt="Rahul's GitHub Streak Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raahul-Thakur&show_icons=true&theme=radical" alt="Raahul-Thakur's GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raahul-Thakur&theme=radical" alt="Raahul-Thakur's GitHub Streak Stats" width="45%" />
 </div>
 
 ---
@@ -39,7 +38,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 ## 🔥 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-username&layout=compact&theme=radical" alt="Rahul's Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raahul-Thakur&layout=compact&theme=radical" alt="Raahul-Thakur's Top Languages" width="50%" />
 </div>
 
 ---
@@ -81,5 +80,6 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 
 ## 🖥 Visitor Count
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul-username&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Raahul-Thakur&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
+
