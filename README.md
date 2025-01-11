@@ -1,17 +1,4 @@
-<div style="font-size: 24px; font-family: Arial; overflow: hidden; white-space: nowrap; border-right: 2 px solid black; width: 15 ch; animation: typing 2 s steps (15, end), blink .5 s step-end infinite;">
-  Hi there! I'm Rahul
-</div>
-
-<style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 15 ch }
-  }
-  @keyframes blink {
-    from, to { border-color: transparent }
-    50 % { border-color: black }
-  }
-</style>
+# Hi there!  I'm Rahul
 
 Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, blending science and technology to solve real-world problems. 
 
@@ -43,13 +30,10 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raahul-Thakur&show_icons=true&theme=radical" alt="Raahul-Thakur's GitHub Stats" width="45%" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-a7dv.vercel.app?user=Raahul-Thakur&theme=dark&border_radius=23&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats">
+  </a>
 </div>
-
----
-
-## 📊 GitHub Streak Stats
-
-[![GitHub Streak](https://github-streak-deploy-jzcz363oi-raahul-thakurs-projects.vercel.app/?user=Raahul-Thakur&theme=radical&hide_border=true)](https://github-streak-deploy-jzcz363oi-raahul-thakurs-projects.vercel.app)
 
 ---
 
