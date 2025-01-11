@@ -1,15 +1,15 @@
-<div style="font-size: 24px; font-family: Arial; overflow: hidden; white-space: nowrap; border-right: 2px solid black; width: 15ch; animation: typing 2s steps(15, end), blink .5s step-end infinite;">
+<div style="font-size: 24px; font-family: Arial; overflow: hidden; white-space: nowrap; border-right: 2 px solid black; width: 15 ch; animation: typing 2 s steps (15, end), blink .5 s step-end infinite;">
   Hi there! I'm Rahul
 </div>
 
 <style>
   @keyframes typing {
     from { width: 0 }
-    to { width: 15ch }
+    to { width: 15 ch }
   }
   @keyframes blink {
     from, to { border-color: transparent }
-    50% { border-color: black }
+    50 % { border-color: black }
   }
 </style>
 
