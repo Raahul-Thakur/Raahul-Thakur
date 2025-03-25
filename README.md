@@ -51,9 +51,9 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 - Developed a deep learning model to classify flower images with high accuracy
 - **Technologies**: Python, TensorFlow, Keras, Matplotlib
 
-### 🌟 [Student Placement Prediction](https://github.com/Raahul-Thakur/Deploying-ML-Model-on-Render)
-- Predicting student placements based on IQ and CGPA, deployed on Render
-- **Technologies**: Python, Scikit-learn, Render, Flask
+### 🌟 [NLP Assistant](https://github.com/Raahul-Thakur/NLP-Assistant)
+- Built a news summarization, classification and event detection using BERT Models
+- **Technologies**: Streamlit, Transformers, KeyBert, spaCy, TF-IDF, PDFplumber, Newspaper3k
 
 ### 🌟 [Credit Card Usage Segmentation](https://github.com/Raahul-Thakur/Credit-Card-Usage-Segmentation-Using-Unsupervised-Learning)
 - Clustered credit card users to identify usage patterns using unsupervised learning
