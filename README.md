@@ -63,6 +63,10 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 - Classified celestial objects like stars, galaxies, and quasars using supervised learning
 - **Technologies**: Python, Scikit-learn, Pandas, Matplotlib
 
+### 🌟 [Black Scholes Calculator](https://github.com/Raahul-Thakur/Black-Scholes-Calculator)
+- Built a comprehensive web application for options pricing and analysis, powered by the Black-Scholes model. 
+- **Technologies**: Python, Numpy, Pandas, Matplotlib, seaborn, finance, streamlit
+
 ---
 
 ## 🌱 Fun Facts
