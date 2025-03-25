@@ -69,14 +69,6 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 
 ---
 
-## 🌱 Fun Facts
-
-- 🌍 I speak multiple languages and enjoy creating language-learning chatbots.
-- 📚 I read 30 minutes every day and play chess and Sudoku for fun.
-- 🧘‍♂️ Meditation and fitness are part of my daily routine.
-
----
-
 ## 🌟 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-t-171458190/)
