@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-20BFA9?style=for-the-badge&logo=gradio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HF Spaces](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-blue?logo=huggingface&logoColor=white)
 
 
 ---
