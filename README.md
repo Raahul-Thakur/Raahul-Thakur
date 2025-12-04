@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://https://github-readme-stats-three-gray-sogmp9ghro.vercel.app/api?username=Raahul-Thakur&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats-three-gray-sogmp9ghro.vercel.app/api?username=Raahul-Thakur&show_icons=true&theme=radical" width="45%" />
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-a7dv.vercel.app?user=Raahul-Thakur&theme=dark&border_radius=23&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats">
   </a>
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **AI Enthusiast**, bl
 ## Top Languages
 
 <div align="center">
-  <img src="https://https://github-readme-stats-three-gray-sogmp9ghro.vercel.app/api/top-langs/?username=Raahul-Thakur&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats-three-gray-sogmp9ghro.vercel.app/api/top-langs/?username=Raahul-Thakur&layout=compact&theme=radical" width="50%" />
 </div>
 
 ---
